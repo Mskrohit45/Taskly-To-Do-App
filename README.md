@@ -1,17 +1,11 @@
-Todoism
-We are Todoist, we use Todoism.
-
-A sample application for Python Web Development with Flask (《Flask Web 开发实战》).
-
-Demo: http://todoism.helloflask.com
+Taskly
+We are Taskly, we use Taskly
 
 
 
 Installation
 Clone the repository:
 bash
-Copy code
-$ git clone https://github.com/greyli/todoism.git
 $ cd todoism
 Set up the virtual environment and install dependencies:
 Using venv or virtualenv with pip:
